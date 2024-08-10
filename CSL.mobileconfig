@@ -8,16 +8,9 @@
             <key>DNSSettings</key>
             <dict>
                 <key>DNSProtocol</key>
-                <string>TLS</string>
-                <key>ServerName</key>
-                <string>vevrl9air2.cloudflare-gateway.com</string>
-                <key>ServerAddresses</key>
-                <array>
-                    <string>1.1.1.1</string>
-                    <string>1.0.0.1</string>
-                    <string>2606:4700:4700::1111</string>
-                    <string>2606:4700:4700::1001</string>
-                </array>
+                <string>HTTPS</string>
+                <key>ServerURL</key>
+                <string>https://vevrl9air2.cloudflare-gateway.com/dns-query</string>
                 <key>SupplementalMatchDomains</key>
                 <array>
                     <string>ocsp.apple.com</string>
@@ -33,10 +26,6 @@
                     <string>axm-app.apple.com</string>
                     <string>comm-cohort.ess.apple.com</string>
                     <string>comm-main.ess.apple.com</string>
-                    <string>xp.apple.com</string>
-                    <string>push.apple.com</string>
-                    <string>configuration.apple.com</string>
-                    <string>iosapps.itunes.apple.com</string>
                 </array>
             </dict>
             <key>OnDemandRules</key>
@@ -44,48 +33,34 @@
                 <dict>
                     <key>Action</key>
                     <string>Connect</string>
-                    <key>InterfaceTypeMatch</key>
-                    <string>WiFi</string>
-                </dict>
-                <dict>
-                    <key>Action</key>
-                    <string>Connect</string>
-                    <key>InterfaceTypeMatch</key>
-                    <string>Cellular</string>
-                </dict>
-                <dict>
-                    <key>Action</key>
-                    <string>Disconnect</string>
                 </dict>
             </array>
             <key>PayloadDisplayName</key>
-            <string>CSL DNS (Enhanced)</string>
+            <string>Cherry Sideloading DNS</string>
             <key>PayloadIdentifier</key>
-            <string>com.csl.dns.profile.enhanced</string>
+            <string>your.link.profile</string>
             <key>PayloadOrganization</key>
             <string>CSL</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
-            <string>A8761F24-5FE3-48B1-A727-4E2D56C360D1</string>
+            <string>309f8c22-c691-47a1-bf84-a5cbebb42b5e</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>Configures your iOS device to use CSL's enhanced DNS over TLS for improved privacy and security.</string>
+    <string> This DNS has been through exessive abuse and testing to let you sideload. </string>
     <key>PayloadDisplayName</key>
-    <string>CSL DNS (Enhanced)</string>
+    <string>Cherry Sideloading DNS</string>
     <key>PayloadIdentifier</key>
-    <string>com.csl.dns.profile.enhanced</string>
-    <key>PayloadRemovalDisallowed</key>
-    <false/>
+    <string>your.cloudflare.warp.com.profile</string>
     <key>PayloadScope</key>
     <string>User</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>35D54D8F-F9E7-49E9-9D2D-0BF98D9EDBA3</string>
+    <string>1772beb3-6488-470b-be06-aaa40f132c40</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
