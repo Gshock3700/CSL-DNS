@@ -4,9 +4,8 @@ This DNS is for the Sideloading community.
 ## Badges
 
 
-[![MIT License](https://img.shields.io/badge/Cherry%20Sideloading%20License-800000])](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[![MIT License](https://img.shields.io/badge/Cherry%20Sideloading%20License-800000])](https://github.com/Gshock3700/CSL-DNS/blob/main/LICENSE)
+
 ![Logo](https://github.com/Gshock3700/Logos/blob/main/IMG_0066.png)
 ## Installation 
 
