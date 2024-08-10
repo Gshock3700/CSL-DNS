@@ -23,5 +23,3 @@ After that there will be a pop up. Click either “Allow” or “Install”
 This project is used by the following Servers:
 
 - Cherry Sideloading (Owner and Developer)
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gshock3700&show_icons=true&theme=dark&title_color=000000&text_color=000000&bg_color=800000&hide_border=true" alt="gshock3700 stats card" /></p>
