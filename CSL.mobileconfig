@@ -50,7 +50,7 @@
         </dict>
         <dict>
             <key>PayloadDisplayName</key>
-            <string>Ad Blocker DNS</string>
+            <string>Ad Blocker</string>
             <key>PayloadIdentifier</key>
             <string>com.cherrysideloading.dns.adblock</string>
             <key>PayloadType</key>
