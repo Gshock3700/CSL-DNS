@@ -79,6 +79,8 @@
     <string>Skid off our code = Nuke 💀</string>
     <key>PayloadDisplayName</key>
     <string>Cherry Sideloading Tools</string>
+    <key>PayloadCreator</key>
+    <string>Cherry Sideloading 🍒</string>
     <key>PayloadIdentifier</key>
     <string>com.cherrysideloading.profile</string>
     <key>PayloadScope</key>
