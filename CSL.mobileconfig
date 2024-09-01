@@ -50,7 +50,7 @@
         </dict>
         <dict>
             <key>PayloadDisplayName</key>
-            <string>Ad Blocking DNS</string>
+            <string>Ad Blocker DNS</string>
             <key>PayloadIdentifier</key>
             <string>com.cherrysideloading.dns.adblock</string>
             <key>PayloadType</key>
@@ -76,7 +76,7 @@
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>This profile enables sideloading and blocks ads using DNS-based filtering for an enhanced browsing experience.</string>
+    <string>test lol</string>
     <key>PayloadDisplayName</key>
     <string>Cherry Sideloading DNS with Ad Blocking</string>
     <key>PayloadIdentifier</key>
